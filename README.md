@@ -1,4 +1,4 @@
-# Projeto CRUD de Produtos com Spring Boot e JDBC
+# Projeto CRUD de Produtos com Spring MVC e JDBC
 
 Este projeto implementa um sistema CRUD (Create, Read, Update, Delete) para gerenciar produtos utilizando Spring Boot e JDBC. Ele oferece uma interface para cadastrar, listar, editar e excluir produtos, com persistência de dados em um banco de dados MySQL.
 
