@@ -46,7 +46,7 @@ CREATE TABLE produto (
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu_usuario/projeto-crud-produto.git
+   git clone https://github.com/EdsonBelemTreinamento/projeto-crud-produto.git
    ```
 2. Compile o projeto com Maven:
    ```bash
